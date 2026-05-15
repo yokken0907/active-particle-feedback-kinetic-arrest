@@ -19,6 +19,16 @@
 
 この論文の主張は、「ノイズが常に秩序を壊す」という単純な見方ではなく、競合相互作用とfeedback controlを持つ非平衡系では、適度なノイズがmetastable domainからの脱出を助け、長距離相関を回復させる場合がある、というものである。
 
+## 技術的ビジュアル案内
+
+初めて本リポジトリを見る技術的関心のある読者向けに、ブラウザだけで開ける技術的ビジュアル案内ページを同梱しています。
+
+`docs/technical_visual_orientation/index.html`
+
+このページは、Active Particle Feedback の構造、すなわち project mission variable、reduced-model / surrogate としての位置づけ、structured-prior / constrained-evaluation logic、不確実性・stress discipline、evidence hierarchy、リポジトリ閲覧順、および claim boundary を短く整理するための補助資料です。
+
+このページは説明補助であり、simulation を実行するものではありません。プロジェクトの妥当性、実装可能性、商用展開、安全認証、または実験・臨床・産業上の検証を示すものでもなく、論文本体、source/configuration materials、supporting archive materials、または専門家による独立評価を置き換えるものでもありません。
+
 ## 主張しないこと
 
 本リポジトリは、以下を主張しない。

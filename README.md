@@ -21,6 +21,16 @@ The repository is a paper companion archive for a reduced non-equilibrium statis
 
 The work should be read as a theoretical and numerical prototype showing that, in an active-particle system with feedback-mediated local variance minimization, very low noise may trap the system in fragmented metastable domains, while moderate noise can help restore longer-range correlations.
 
+## Technical Visual Orientation
+
+For technically interested first-time readers, this repository includes a browser-only technical visual orientation page:
+
+`docs/technical_visual_orientation/index.html`
+
+This page provides a structured overview of Active Particle Feedback, including the project mission variable, reduced-model or surrogate status, structured-prior / constrained-evaluation logic, uncertainty and stress discipline where applicable, evidence hierarchy, recommended repository reading order, and the claim boundary.
+
+The page is intended only as an orientation aid. It does not execute simulations, does not validate the project, does not certify deployment readiness, and does not replace the manuscript, source/configuration materials, supporting archive materials, or independent expert review.
+
 ## What this repository does not claim
 
 This repository does **not** claim:
