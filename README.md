@@ -27,9 +27,11 @@ For technically interested first-time readers, this repository includes a browse
 
 `docs/technical_visual_orientation/index.html`
 
-This page provides a structured overview of Active Particle Feedback, including the project mission variable, reduced-model or surrogate status, structured-prior / constrained-evaluation logic, uncertainty and stress discipline where applicable, evidence hierarchy, recommended repository reading order, and the claim boundary.
+This page provides an active-particle-specific overview of the feedback kinetic-arrest / noise-induced-annealing logic. In this repository, the mission variable is not material design certification, experimental active-matter validation, or device deployment; it is modeled kinetic-arrest / noise-induced-annealing diagnosis, meaning that a reduced active-particle system is used to distinguish persistent arrest, feedback-assisted escape, noise-assisted annealing, order-parameter recovery, and artifact-like control effects under a strict simulation/provenance boundary.
 
-The page is intended only as an orientation aid. It does not execute simulations, does not validate the project, does not certify deployment readiness, and does not replace the manuscript, source/configuration materials, supporting archive materials, or independent expert review.
+The page also summarizes active-particle simulation state channels, mobility/order diagnostics, feedback and noise channels, artifact-audit discipline, reconstructed-public-reproducer provenance caution, evidence hierarchy, repository reading order, and the claim boundary. All major visual sections include replay controls so that readers can step through the diagnostic logic rather than viewing a static template.
+
+The page is intended only as an orientation aid. It does not run active-particle simulations, does not validate an experimental material system, does not certify material design, device deployment, industrial process readiness, or safety, and does not replace the manuscript, source materials, figures, or independent expert review.
 
 ## What this repository does not claim
 
