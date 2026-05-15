@@ -1,0 +1,219 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 112,
+      "sha256": "011009132d5ad8cc6a25363a5d316f063ecdfd57ef91ad94186b203dadb2f23d"
+    },
+    {
+      "path": "AI_ASSISTANCE_DISCLOSURE.md",
+      "size_bytes": 503,
+      "sha256": "8401e7a86ad0bb8df3880379b197e4943005c8fc7559cccba5973c0922827e59"
+    },
+    {
+      "path": "CATEGORY_TITLE_ja.md",
+      "size_bytes": 763,
+      "sha256": "16696d9cfa3a1201d50130324c80234be5b411d38be30214e94237ae6e7ee080"
+    },
+    {
+      "path": "CLAIM_BOUNDARY.md",
+      "size_bytes": 2617,
+      "sha256": "8f35889690a230f885596727e173849f1aa9a8de10a69ec5bd11b23486477295"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 617,
+      "sha256": "380c985f2b28d926b0fef89d19dc59609fdaa0105471ab8435356829ed0854d9"
+    },
+    {
+      "path": "LICENSE_EVALUATION_ONLY.txt",
+      "size_bytes": 617,
+      "sha256": "380c985f2b28d926b0fef89d19dc59609fdaa0105471ab8435356829ed0854d9"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "size_bytes": 1059,
+      "sha256": "f984d5cf6016354272811ce08a40421d996b42c8ca82b258c5ff611ee79a131c"
+    },
+    {
+      "path": "MANIFEST_NOTE.md",
+      "size_bytes": 403,
+      "sha256": "ee4da14176319e3b0ca8d05704d90b3d939e144613d353911e386003b8ee424c"
+    },
+    {
+      "path": "PRACTICAL_POSITIONING_SHEET_ja.md",
+      "size_bytes": 3097,
+      "sha256": "d3116be943e7191a2fb2ef9057580b0137b609cb0f28d632f0522ff08a9944c2"
+    },
+    {
+      "path": "PUBLICATION_STRATEGY_ja.md",
+      "size_bytes": 912,
+      "sha256": "726c6303bfe1b3bcb470f1fcb0f2615ac9289623950a5e499d6f89a12af87fd3"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3334,
+      "sha256": "e4a244d9e822f2abe75b2385ad8012796e669a10b44d16fe311566ac9c555aee"
+    },
+    {
+      "path": "README_ja.md",
+      "size_bytes": 3742,
+      "sha256": "fdf57a941a3719f28b9e70c71537ab65798a6e35e4dee2f2e3754c559e4b6cda"
+    },
+    {
+      "path": "RELEASE_NOTES_v0.1.1_zenodo_safe_public_gate.md",
+      "size_bytes": 4098,
+      "sha256": "6adaad41960ae5a66f5d9a12c304a8d58274fef457c61e02101f08562edf1eef"
+    },
+    {
+      "path": "SOURCE_INPUTS_USED.json",
+      "size_bytes": 1618,
+      "sha256": "00f2c48e4f0fc2e45e67e294b6651b0340c498f2f6c04f3ffeb6a1c9208af814"
+    },
+    {
+      "path": "docs/GITHUB_PUBLICATION_CHECKLIST_ja.md",
+      "size_bytes": 946,
+      "sha256": "0c6049bacea3d4271611a436c95e94b8467b6097dc116feece75096a21e6aad3"
+    },
+    {
+      "path": "docs/MANUSCRIPT_CLEANUP_REQUIRED_ja.md",
+      "size_bytes": 682,
+      "sha256": "1d2417830c7586fd56f5b667af7139bf26fcd9911059546c3f0272213a0fddd1"
+    },
+    {
+      "path": "docs/MISSING_MATERIALS_ja.md",
+      "size_bytes": 640,
+      "sha256": "09a99c25b0774e718db5e07fa1ad637f20926d4085d0161fcaee187ec5b9ad65"
+    },
+    {
+      "path": "docs/OVERCLAIM_BOUNDARY_ja.md",
+      "size_bytes": 917,
+      "sha256": "532b382343bcf127b4f7ca5a0bd57451ffae07be1e83bf13f935914363a489ac"
+    },
+    {
+      "path": "docs/PDF_CLEANUP_APPLIED_PUBLIC_GATE_0.md",
+      "size_bytes": 782,
+      "sha256": "638a55c13c7fd16a4b25b6ce81b5db59bdab47a1703e533dcf1c193afc4e9249"
+    },
+    {
+      "path": "docs/RECONSTRUCTED_ABP_REPRODUCER_NOTE.md",
+      "size_bytes": 1323,
+      "sha256": "52f113b334066f860761fb97076856a6ac4b127fff5b014fc3f931f3aec6aefa"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY_NOTES_ja.md",
+      "size_bytes": 687,
+      "sha256": "af4859dcc07c1c425fc3e60229a1f40f5729bf1452cfd4ae3d27b1c793be4476"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY_STATUS.md",
+      "size_bytes": 1123,
+      "sha256": "08f444912d98691d6184f379f818cecee2a6e5bba93fdceea722cf0278e3a610"
+    },
+    {
+      "path": "docs/SOURCE_MATERIALS_CONSISTENCY_AUDIT.md",
+      "size_bytes": 1038,
+      "sha256": "720021c225c1d7f09f9c5121ee1126e0ca6331d7adc594ff92cec3b5972fbade"
+    },
+    {
+      "path": "docs/citation_metadata/CITATION_DRAFT_pre_doi.cff",
+      "size_bytes": 940,
+      "sha256": "f56d84576f27eb9407282471018d3322ec8c020cade4b7105a7ad3ff1445f062"
+    },
+    {
+      "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_ACTIVE_PARTICLE.json",
+      "size_bytes": 1622,
+      "sha256": "02292e05cf1d9b0792365ff6c5c1ab03e33325d5412ae968df14fd6d371d4a77"
+    },
+    {
+      "path": "docs/public_gate_0/PUBLIC_GATE_0_A10_ACTIVE_PARTICLE.md",
+      "size_bytes": 1869,
+      "sha256": "3f5412940f9f38677fa7af70ee1a3b7ffd193fd0c6c321f9a1189a0420914ac9"
+    },
+    {
+      "path": "figures/README_ja.md",
+      "size_bytes": 322,
+      "sha256": "b39c721cdb96715b031a949cc4bd6adf5cd61f915e16d85cf436b290f42d3f0c"
+    },
+    {
+      "path": "figures/figure1_order_susceptibility_reconstructed.png",
+      "size_bytes": 159813,
+      "sha256": "7c9559912828f699b592ecad957ecd5f215c6defe7e767c407c6fa1cad090aa5"
+    },
+    {
+      "path": "figures/figure2_spatial_correlation_reconstructed.png",
+      "size_bytes": 80031,
+      "sha256": "8d8df4584f746a89a03e694dbfe57208a7c571f985b34c8bb3220f80c6ee450d"
+    },
+    {
+      "path": "figures/figure_index.csv",
+      "size_bytes": 272,
+      "sha256": "c99acf02f220fd3ccea2da21339aeea964aefc0bc032ad49a43a709f490d4340"
+    },
+    {
+      "path": "manuscript/Kinetic_Arrest_and_Noise_Induced_Annealing_in_Active_Particle_Systems_with_Information_Feedback_Control.pdf",
+      "size_bytes": 304047,
+      "sha256": "29d4196fc9e65f51c352b32394ef95a237099e00af950435f44caac6ee7c6063"
+    },
+    {
+      "path": "manuscript/README_ja.md",
+      "size_bytes": 290,
+      "sha256": "72767100020dab2fb2bd734ad00701db1234504e221bc228a034f8845c7c8293"
+    },
+    {
+      "path": "manuscript/jxiv_metadata_ja_en.md",
+      "size_bytes": 759,
+      "sha256": "891becaee34da5cd9b5ad9e463f62306616252c7674daac3157066ccf135187f"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 28,
+      "sha256": "bde68ffcfb53dd010e2ca394340aee83803b9f8e90ecfb32b1c600cd4d3db081"
+    },
+    {
+      "path": "results/README.md",
+      "size_bytes": 379,
+      "sha256": "ee7ab89e196bf929c1b1588f505f36f58df63c295a0a5619091937a12f4e0f1d"
+    },
+    {
+      "path": "results/reconstructed_abp_correlation.csv",
+      "size_bytes": 4031,
+      "sha256": "65954bc715a3af6c036e426a05f7e6951197e4323cdb76feac732969736a5446"
+    },
+    {
+      "path": "results/reconstructed_abp_summary.csv",
+      "size_bytes": 1904,
+      "sha256": "f3019b7361f00bdda35564b1411678664d7a5ad07944d3f36b7c1c94c0104966"
+    },
+    {
+      "path": "results_summary/active_particle_feedback_summary.csv",
+      "size_bytes": 667,
+      "sha256": "480122904acee3d6ca0934079ca8c545dfbac47fe76325c6be8b3ff8ecb5e9fb"
+    },
+    {
+      "path": "results_summary/summary.json",
+      "size_bytes": 2316,
+      "sha256": "1e721813489c3f6f578e17ab9604c31f76aaa3e8f82ef7d336726d7cca92694c"
+    },
+    {
+      "path": "scripts/abp_feedback_public_reproducer.py",
+      "size_bytes": 8264,
+      "sha256": "c878cd013bb26c53110725f31f53104d01f35af08eb85bb6a23615aef3d69125"
+    },
+    {
+      "path": "source_materials/reconstructed_abp_public_reproducer/README.md",
+      "size_bytes": 570,
+      "sha256": "eb39db2c5cbe9ed97766884efc0ac304bfded78311055e26b25711fe01ff7196"
+    },
+    {
+      "path": "source_materials/reconstructed_abp_public_reproducer/abp_feedback_public_reproducer.py",
+      "size_bytes": 8264,
+      "sha256": "c878cd013bb26c53110725f31f53104d01f35af08eb85bb6a23615aef3d69125"
+    },
+    {
+      "path": "tools/verify_manifest_excluding_self.py",
+      "size_bytes": 898,
+      "sha256": "6b1294314e6eb503336d049055322f89f6a4e596d76475efbdf1b39b24b7c395"
+    }
+  ]
+}
