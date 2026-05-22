@@ -77,3 +77,7 @@ Run from the repository root:
 ```bash
 python scripts/abp_feedback_public_reproducer.py
 ```
+
+## Support
+
+This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).
