@@ -1,0 +1,5 @@
+result,paper_observation,claim_level
+finite_size_order_decrease,"At low noise around Dtheta≈2.0, the order parameter decreases as N increases.",simulation observation within tested N values
+susceptibility_peak,A prominent susceptibility peak is observed for N=256 in the low-noise regime.,simulation observation
+kinetic_arrest_interpretation,Competing local optimizations and volume exclusion create fragmented orientation domains that hinder global reorganization.,interpretation within reduced model
+noise_induced_annealing,Moderate noise Dtheta=5.0 shows stronger long-range correlations than Dtheta=2.0 for N=256.,simulation observation and interpretation

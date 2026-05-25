@@ -1,0 +1,28 @@
+{
+  "created_utc": "2026-05-15T09:26:23.046370+00:00",
+  "public_gate_update": "v0.1.1-zenodo-safe-checkfix",
+  "manuscript_pdf": "manuscript/Kinetic_Arrest_and_Noise_Induced_Annealing_in_Active_Particle_Systems_with_Information_Feedback_Control.pdf",
+  "source_materials_status": "No validated active-particle simulation source code is included in this Zenodo-safe checkfix package.",
+  "excluded_materials": [
+    {
+      "path": "source_materials/selected_from_uploaded_stt_project/",
+      "reason": "The included script and figure were a stochastic Optimal Velocity traffic/STT ring-road simulation, not an Active Brownian Particle information-feedback simulation for this manuscript."
+    },
+    {
+      "path": "deferred_related_materials_index/",
+      "reason": "The index described a large local environment/source bundle associated with the mismatched uploaded material and is not suitable as active-particle provenance."
+    }
+  ],
+  "integrity_policy": "The package is retained as a manuscript companion archive with claim-boundary documents and selected result summaries, not as a complete reproduction-code release.",
+  "reconstructed_abp_public_reproducer": {
+    "script": "scripts/abp_feedback_public_reproducer.py",
+    "basis": "manuscript equations and figure diagnostics for ABP information-feedback model",
+    "outputs": [
+      "reconstructed_abp_summary.csv",
+      "reconstructed_abp_correlation.csv",
+      "figure1_order_susceptibility_reconstructed.png",
+      "figure2_spatial_correlation_reconstructed.png"
+    ],
+    "limitation": "not original local ABP exploratory source code"
+  }
+}

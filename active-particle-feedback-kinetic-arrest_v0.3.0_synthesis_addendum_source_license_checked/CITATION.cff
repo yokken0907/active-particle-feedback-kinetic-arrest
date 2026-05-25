@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this diagnostic package, cite the repository archive and the addendum. Zenodo identifiers for this repository are repository-archive DOIs, not standalone peer-reviewed article DOIs."
+type: software
+title: "APFKA: Claim-Bounded Diagnostics for Noise-Assisted Annealing and Frustration Boundaries in a Reduced Active-Particle Feedback Surrogate"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.0-synthesis-addendum-source-license-checked"
+date-released: "2026-05-25"
+url: "https://github.com/yokken0907/active-particle-feedback-kinetic-arrest"
+repository-code: "https://github.com/yokken0907/active-particle-feedback-kinetic-arrest"
+abstract: "Claim-bounded active-particle feedback surrogate package for noise-window diagnostics, feedback-geometry dependence, frustration-boundary classification, and rescue-stability audits. This repository does not claim experimental active-matter validation, biological/social-system validation, crowd-control or civilization-engineering utility, a universal kinetic-arrest/annealing mechanism, or local feedback as a uniquely necessary annealing generator."
+keywords:
+  - active particles
+  - kinetic arrest
+  - noise-induced annealing
+  - information feedback
+  - frustration boundary
+  - surrogate diagnostics
+  - claim boundary
+  - research software
+references:
+  - type: article
+    title: "Novel Type of Phase Transition in a System of Self-Driven Particles"
+    authors:
+      - family-names: "Vicsek"
+        given-names: "T."
+    doi: "10.1103/PhysRevLett.75.1226"
+  - type: article
+    title: "Hydrodynamics of soft active matter"
+    authors:
+      - family-names: "Marchetti"
+        given-names: "M. C."
+    doi: "10.1103/RevModPhys.85.1143"

@@ -1,0 +1,41 @@
+{
+  "title": "Kinetic Arrest and Noise-Induced Annealing in Active Particle Systems with Information Feedback Control",
+  "classification_ja": "能動粒子系・情報フィードバック制御の非平衡相転移理論",
+  "status": "public_reconstructed_abp_diagnostic_reproducer_v0_1_1",
+  "central_claim": "ABP-type reduced numerical prototype showing kinetic-arrest-like behavior and noise-induced annealing in the tested model",
+  "result_summary": [
+    {
+      "result": "finite_size_order_decrease",
+      "paper_observation": "At low noise around Dtheta≈2.0, the order parameter decreases as N increases.",
+      "claim_level": "simulation observation within tested N values"
+    },
+    {
+      "result": "susceptibility_peak",
+      "paper_observation": "A prominent susceptibility peak is observed for N=256 in the low-noise regime.",
+      "claim_level": "simulation observation"
+    },
+    {
+      "result": "kinetic_arrest_interpretation",
+      "paper_observation": "Competing local optimizations and volume exclusion create fragmented orientation domains that hinder global reorganization.",
+      "claim_level": "interpretation within reduced model"
+    },
+    {
+      "result": "noise_induced_annealing",
+      "paper_observation": "Moderate noise Dtheta=5.0 shows stronger long-range correlations than Dtheta=2.0 for N=256.",
+      "claim_level": "simulation observation and interpretation"
+    }
+  ],
+  "claim_boundary": "No experimental active-matter validation, biological/social/civilization-scale validation, swarm-control technology, or universal phase-transition proof.",
+  "reproducibility_upgrade": {
+    "previous_issue": "Uploaded source_materials contained STT/traffic simulation material rather than ABP information-feedback code.",
+    "action": "Mismatched source excluded; reconstructed ABP public diagnostic reproducer added.",
+    "reproducer_script": "scripts/abp_feedback_public_reproducer.py",
+    "generated_outputs": [
+      "results/reconstructed_abp_summary.csv",
+      "results/reconstructed_abp_correlation.csv",
+      "figures/figure1_order_susceptibility_reconstructed.png",
+      "figures/figure2_spatial_correlation_reconstructed.png"
+    ],
+    "limitation": "Reconstructed manuscript-level diagnostic reproducer; not bitwise original exploratory code."
+  }
+}

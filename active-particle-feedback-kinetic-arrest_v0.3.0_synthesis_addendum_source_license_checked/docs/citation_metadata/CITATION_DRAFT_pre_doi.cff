@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Active Particle Feedback Kinetic Arrest"
+message: "If you use these materials, please cite the corresponding manuscript."
+type: dataset
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+    affiliation: Independent Researcher
+abstract: "Paper companion archive for an AI-assisted independent research manuscript on kinetic arrest and noise-induced annealing in Active Brownian Particle systems with information feedback control."
+repository-code: "https://github.com/yokken0907/active-particle-feedback-kinetic-arrest"
+date-released: "2026-05-07"
+version: "v0.1.1-public-gate"
+license: "LicenseRef-Evaluation-Only"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Yoshimura
+      given-names: Keiji
+      affiliation: Independent Researcher
+  title: "Kinetic Arrest and Noise-Induced Annealing in Active Particle Systems with Information Feedback Control"
+  year: 2026
+  # doi: pending
