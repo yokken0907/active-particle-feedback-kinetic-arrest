@@ -1,3 +1,31 @@
+# v0.3.1 Integrated Revision Notice
+
+This repository now includes an integrated claim-bounded manuscript:
+
+`paper/integrated_v0_3_1/APFKA_integrated_model_audit_synthesis_v0_3_1.pdf`
+
+The integrated revision combines the earlier ABP-style model paper with the v0.2.0-v0.2.6 audit synthesis. It is now the recommended reader-facing paper for this repository because it preserves the original model/detail while adding the later claim-boundary, feedback-geometry, frustration-boundary, rescue-stability, and persistent-hard-boundary results.
+
+Repository URL: https://github.com/yokken0907/active-particle-feedback-kinetic-arrest
+
+License: source-defined Evaluation-Only Notice. For Zenodo, use an other/source-defined license option rather than CC-BY-NC-4.0.
+
+---
+
+# v0.3.0 Synthesis Addendum Notice
+
+This repository now includes a claim-bounded v0.3.0 synthesis addendum:
+
+`paper/addendum_v0_3_0/APFKA_noise_assisted_annealing_frustration_boundary_addendum_v0_3_0.pdf`
+
+The addendum locks the v0.2.0-v0.2.6 audit sequence as a reduced active-particle surrogate diagnostic. It should not be read as a civilization theory, social-system validation, crowd-control method, experimental active-matter validation, or universal kinetic-arrest theorem.
+
+Repository URL: https://github.com/yokken0907/active-particle-feedback-kinetic-arrest
+
+License: source-defined Evaluation-Only Notice. For Zenodo, use an other/source-defined license option rather than CC-BY-NC-4.0.
+
+---
+
 # Active Particle Feedback Kinetic Arrest
 
 This repository accompanies the AI-assisted independent research manuscript:
@@ -77,7 +105,6 @@ Run from the repository root:
 ```bash
 python scripts/abp_feedback_public_reproducer.py
 ```
-
 ## Support
 
 This project is independently developed without institutional sponsorship. Optional support for maintenance and documentation is described in [SUPPORT.md](SUPPORT.md).

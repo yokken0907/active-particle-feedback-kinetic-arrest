@@ -1,3 +1,27 @@
+# v0.3.1 統合改訂版のお知らせ
+
+このリポジトリには、旧版のABPモデル論文本体と v0.2.0-v0.2.6 監査結果を統合した改訂稿を追加しています。
+
+`paper/integrated_v0_3_1/APFKA_integrated_model_audit_synthesis_v0_3_1.pdf`
+
+旧版はモデル・数式・基礎診断が厚く、v0.3.0補遺は監査と主張境界が強い文書でした。v0.3.1統合改訂版は、その両方を統合した推奨読者向け文書です。
+
+---
+
+# v0.3.0 統合補遺のお知らせ
+
+このリポジトリには、主張限定された v0.3.0 統合補遺を追加しています。
+
+`paper/addendum_v0_3_0/APFKA_noise_assisted_annealing_frustration_boundary_addendum_v0_3_0.pdf`
+
+本補遺は、v0.2.0-v0.2.6 監査系列を、reduced active-particle surrogate の診断結果として固定するものです。文明理論、社会システムの検証、群衆制御手法、実験active matter検証、または普遍的kinetic-arrest定理としては読まないでください。
+
+Repository URL: https://github.com/yokken0907/active-particle-feedback-kinetic-arrest
+
+ライセンス: source-defined Evaluation-Only Notice。Zenodoでは CC-BY-NC-4.0 ではなく、other/source-defined license 系を使用してください。
+
+---
+
 # 能動粒子系における情報フィードバック制御・運動停止・ノイズ誘起アニーリング
 
 このリポジトリは、以下のAI支援独立研究論文に対応するGitHub配置用フォルダである。
