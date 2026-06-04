@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+stt_env/
+venv/
+.env/
+.venv/
+*.so
+*.o
+*.a
+.DS_Store
+Thumbs.db
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z

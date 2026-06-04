@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this diagnostic package, cite the repository archive and the integrated manuscript. Zenodo identifiers for this repository are repository-archive DOIs, not standalone peer-reviewed article DOIs."
+type: software
+title: "APFKA: Public Landing and Metadata Refresh for Claim-Bounded Active-Particle Feedback Surrogate Diagnostics"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+    affiliation: "Independent Researcher"
+version: "v0.3.2-public-landing-and-metadata-refresh"
+date-released: "2026-06-04"
+url: "https://github.com/yokken0907/active-particle-feedback-kinetic-arrest"
+repository-code: "https://github.com/yokken0907/active-particle-feedback-kinetic-arrest"
+abstract: "Public landing and metadata refresh for an integrated claim-bounded active-particle feedback surrogate archive. The package preserves the v0.3.1 model and audit synthesis while strengthening public claim-boundary presentation, GitHub Pages support, repository metadata, and manifest consistency. The archived diagnostics concern kinetic-arrest-like behavior, noise-assisted annealing, feedback-geometry dependence, frustration-boundary classification, rescue-stability behavior, and persistent hard boundaries inside tested toy-model settings."
+keywords:
+  - active matter
+  - active particles
+  - kinetic arrest
+  - noise-induced annealing
+  - information feedback
+  - toy model
+  - reduced surrogate
+  - frustration boundary
+  - feedback geometry
+  - claim-bounded diagnostics
+references:
+  - type: article
+    title: "Novel Type of Phase Transition in a System of Self-Driven Particles"
+    authors:
+      - family-names: "Vicsek"
+        given-names: "T."
+    doi: "10.1103/PhysRevLett.75.1226"
+  - type: article
+    title: "Hydrodynamics of soft active matter"
+    authors:
+      - family-names: "Marchetti"
+        given-names: "M. C."
+    doi: "10.1103/RevModPhys.85.1143"
+  - type: article
+    title: "Motility-Induced Phase Separation"
+    authors:
+      - family-names: "Cates"
+        given-names: "M. E."
+    doi: "10.1146/annurev-conmatphys-031214-014710"

@@ -1,0 +1,8 @@
+phase,status,decision,outputs_path,summary_file
+v0.2.0,FOUND,PASS-APFKA-V020-PREFLIGHT,/home/kei/apfka/apfka_v020_arrest_annealing_ablation_package/outputs,apfka_v020_summary.json
+v0.2.1,FOUND,PASS-APFKA-V021-RUN-COMPLETE,/home/kei/apfka/apfka_v021_mechanism_disambiguation_audit_package/outputs,apfka_v021_summary.json
+v0.2.2,FOUND,PASS-APFKA-V022-RUN-COMPLETE,/home/kei/apfka/apfka_v022_topology_noise_holdout_audit_package/outputs,apfka_v022_summary.json
+v0.2.3,FOUND,PASS-APFKA-V023-RUN-COMPLETE,/home/kei/apfka/apfka_v023_frozen_window_holdout_audit_package/outputs,apfka_v023_summary.json
+v0.2.4,FOUND,PASS-APFKA-V024-RUN-COMPLETE,/home/kei/apfka/apfka_v024_frustration_rescue_audit_package/outputs,apfka_v024_summary.json
+v0.2.5,FOUND,PASS-APFKA-V025-RUN-COMPLETE,/home/kei/apfka/apfka_v025_frozen_rescue_holdout_audit_package/outputs,apfka_v025_summary.json
+v0.2.6,FOUND,PASS-APFKA-V026-RUN-COMPLETE,/home/kei/apfka/apfka_v026_persistent_boundary_classification_audit_package/outputs,apfka_v026_summary.json
