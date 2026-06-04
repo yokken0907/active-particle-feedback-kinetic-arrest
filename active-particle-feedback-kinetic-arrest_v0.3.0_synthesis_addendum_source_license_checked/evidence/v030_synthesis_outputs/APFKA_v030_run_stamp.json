@@ -1,8 +1,0 @@
-{
-  "decision": "PASS-APFKA-V030-SYNTHESIS-LOCKED",
-  "timestamp_utc": "2026-05-25T14:45:47.633577+00:00",
-  "phase_count_found": 7,
-  "phase_count_expected": 7,
-  "missing_phases": [],
-  "script": "run_apfka_v030_synthesis.py"
-}

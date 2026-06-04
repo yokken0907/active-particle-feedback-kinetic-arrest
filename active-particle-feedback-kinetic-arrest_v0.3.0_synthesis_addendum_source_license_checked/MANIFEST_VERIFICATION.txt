@@ -1,2 +1,0 @@
-PASS manifest verification
-file_count=99

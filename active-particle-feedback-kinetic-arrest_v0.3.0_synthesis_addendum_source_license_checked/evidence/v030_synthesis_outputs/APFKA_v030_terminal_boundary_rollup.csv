@@ -1,9 +1,0 @@
-topology,family,native_score,no_feedback_score,best_policy,best_score,native_pass_rate,best_pass_rate,best_minus_native,classification
-extreme_frustration_holdout,hard_boundary,-1.5877908144353623,-1.6874126150064075,combined_targeted_relief,-0.8117333318193275,0.0,0.0,0.7760574826160348,persistent_hard_boundary
-frustrated_checker_phase_shift,formerly_persistent,-1.166189815520149,-1.420762715243496,combined_targeted_relief,0.2223977366749773,0.0,1.0,1.3885875521951268,rescue_stable
-frustrated_checker_v2,formerly_persistent,-0.8548152996644764,-1.118756439279163,combined_targeted_relief,0.5698245442399344,0.0,1.0,1.4246398439044108,rescue_stable
-mixed_basin_holdout_v2,native_stable,0.8780916666173946,0.8512355079950465,combined_targeted_relief,1.1916289324046458,1.0,1.0,0.3135372657872513,rescue_stable
-modular_patchy_holdout,native_stable,1.0554999434175327,1.0256705455052997,combined_targeted_relief,1.3200685543072677,1.0,1.0,0.2645686108897349,rescue_stable
-random_sparse_holdout,native_stable,0.8848593503036838,0.8529474536237743,combined_targeted_relief,1.1437511211432532,1.0,1.0,0.2588917708395694,rescue_stable
-smooth_gradient_holdout,native_stable,0.5135297703561215,0.4453766787033288,combined_targeted_relief,0.8354351513376318,1.0,1.0,0.3219053809815103,rescue_stable
-striped_domains_holdout_v2,rescue_sensitive,-0.2874758977655238,-0.5159714593475081,combined_targeted_relief,0.944598748644842,0.0,1.0,1.2320746464103658,rescue_stable
